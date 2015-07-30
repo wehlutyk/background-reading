@@ -13,3 +13,9 @@ They lend evidence to the idea that **in immediate sentence recall, sentences ar
 * [Elizabeth Jefferies, Matthew A. Lambon Ralph, Alan D. Baddeley (2004), Automatic and controlled processing in sentence recall: The role of long-term and working memory](http://dx.doi.org/10.1016/j.jml.2004.07.005)
 
 Discusses the involvement of attention and control in sentence recall: **sentence recall works better when you can relate the meaning to long-term memories, and that's mandatory if recall is larger than the phonological loop**.
+
+### Quotes
+
+* [Aurelien Lauf, Mathieu Valette, Leila Khouas (2013), Analyzing Variation Patterns In Quotes Over Time](http://rcs.cic.ipn.mx/2013_70/Analyzing%20Variation%20Patterns%20In%20Quotes%20Over%20Time.pdf)
+
+Categorize the **types of transformations that quotes undergo on the web**. The high-level variation categories are: synonyms, co-reference, reformulation, spelling, determiners, conjugation, linking words, contractions, number, inversions. (Those are further subdivided.) The high-level deletion categories are: modality, modifiers, linking words, determiners, completives, enumerations, time expressions, repetitions, intensity. (Those are also subdivided.) The main content is summed up in tables 4 and 5.
