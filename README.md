@@ -5,6 +5,7 @@ The reading list.
 ## Sentence recall
 
 * [Mary C Potter & Linda Lombardi (1990), Regeneration in the short-term recall of sentences](http://dx.doi.org/10.1016/0749-596X(90)90042-X)
+* [Linda Lombardi & Mary C Potter (1992), The regeneration of syntax in short term memory](http://dx.doi.org/10.1016/0749-596X(92)90036-W)
 * [Mary C. Potter & Linda Lombardi (1997), Syntactic Priming in Immediate Recall of Sentences](http://dx.doi.org/10.1006/jmla.1997.2546)
 
 They lend evidence to the idea that **in immediate sentence recall, sentences are stored as unordered bags of words (=a conceptual representation) and regenerated on-the-fly**, changing the syntax if necessary to add a word. Lure words (presented before recall, before/after original) appear more in listening than reading. The fact that the re-generated syntax is often close to the original would be due to **syntactical priming** (just due to perceiving the original sentence).
