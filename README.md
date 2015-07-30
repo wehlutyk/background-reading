@@ -19,3 +19,10 @@ Discusses the involvement of attention and control in sentence recall: **sentenc
 * [Aurelien Lauf, Mathieu Valette, Leila Khouas (2013), Analyzing Variation Patterns In Quotes Over Time](http://rcs.cic.ipn.mx/2013_70/Analyzing%20Variation%20Patterns%20In%20Quotes%20Over%20Time.pdf)
 
 Categorize the **types of transformations that quotes undergo on the web**. The high-level variation categories are: synonyms, co-reference, reformulation, spelling, determiners, conjugation, linking words, contractions, number, inversions. (Those are further subdivided.) The high-level deletion categories are: modality, modifiers, linking words, determiners, completives, enumerations, time expressions, repetitions, intensity. (Those are also subdivided.) The main content is summed up in tables 4 and 5.
+
+
+### False memories
+
+* [Deese-Roediger-McDermott (DRM) paradigm](https://en.wikipedia.org/wiki/Deese%E2%80%93Roediger%E2%80%93McDermott_paradigm)
+
+> The procedure typically involves the oral presentation of a list of related words (e.g. bed, rest, awake, tired, dream, wake, snooze, blanket, doze, slumber, snore, nap, peace, yawn, drowsy) and then requires the subject to remember as many words from the list as possible. Typical results show that subjects recall a related but nonpresented word (e.g. sleep), known as a ‘lure’, with the same frequency as other presented words.[1] When subjects are asked about their experience after the test, about half of all participants report that they are sure that they remember hearing the nonpresented word, indicating a false memory – memory for an event that never occurred.
